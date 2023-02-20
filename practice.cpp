@@ -1,4 +1,5 @@
-// Taking Mod with prime no.
+// Author Shreevardhan Bhosale
+//  Taking Mod with prime no.
 #include <bits/stdc++.h>
 using namespace std;
 
