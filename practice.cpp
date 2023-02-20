@@ -1,3 +1,4 @@
+// Taking Mod with prime no.
 #include <bits/stdc++.h>
 using namespace std;
 
